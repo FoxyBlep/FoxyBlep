@@ -1,16 +1,23 @@
-## Hi there 👋
+Beginning of README file:
 
-<!--
-**FoxyBlep/FoxyBlep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Licenses
 
-Here are some ideas to get you started:
+## GNU General Public License (GPL) v3.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The source code of this website, specifically the `.HTML` and `.CSS` files and their code, is licensed under the GNU General Public License v3.0. You are free to use, modify, and distribute the code, provided that you:
+
+- Include this license in all copies and portions of the code.
+- Provide appropriate credit to the original author(s).
+- Any modified versions must also be distributed under the same GPL license.
+
+For more information, please see **SECTION 1** of `license.txt`.  
+For questions or explicit permission requests, please join or create an issue here: [https://github.com/foxyblep/foxyblep/issues](https://github.com/foxyblep/foxyblep/issues).
+
+---
+
+## All Rights Reserved
+
+All other files, content, and creative works made by FoxyBlep are © FoxyBlep 2025. All rights are reserved, and no reproduction, redistribution, modification, or commercial use is permitted without explicit written permission from the owner.
+
+For more information, please see **SECTION 2** of `license.txt`.  
+For questions or explicit permission requests, please join or create an issue here: [https://github.com/foxyblep/foxyblep/issues](https://github.com/foxyblep/foxyblep/issues).
