@@ -1,6 +1,6 @@
 ---
 name: Asset Request
-about: " Requesting permission of anything created by FoxyBlep "
+about: 'Use for requesting permission of anything created by FoxyBlep '
 title: ''
 labels: Asset Request
 assignees: ''
