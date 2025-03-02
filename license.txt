@@ -18,7 +18,7 @@ For questions, or explicit permission requests, please join or create an issue h
 
 SECTION 2: All Rights Reserved License For: ALL FILES, CONTENT, AND CREATIVE WORKS EXCLUDING .HTML AND .CSS (which falls under SECTION 1)
 
-All files, content, and creative works, displayed or hidden, past, present, or future, excluding all .HTML and .CSS files and their code (which falls under SECTION 1) on this website are © FoxyBlep 2025.
+All files, content, and creative works, displayed or hidden, past, present, or future, excluding all .HTML and .CSS files and their code (which falls under SECTION 1) made by FoxyBlep are © FoxyBlep 2025.
 All Rights Reserved. No reproduction, redistribution, modification, or commercial use is permitted without explicit written permission from me, the owner, FoxyBlep.
 
 For questions, or explicit permission requests, please join or create an issue here: https://github.com/foxyblep/foxyblep/issues
