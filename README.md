@@ -5,8 +5,11 @@ Blep! Welcome to my little corner of the internet! I'm Foxy, a silly lil fluffy 
 I'm a fox (who knew) I am orange, with brown paws, and white paw tips. I have brown tipped ears, and a brown stripe seperating my white tail end from the orange tail base. I have a white belly as well, and a kemonomimi style face.
 
 ## ♥ My Socials! :3
+- Website: https://foxyblep.github.io/foxyblep/
+- Github: https://github.com/foxyblep/foxyblep
 - Steam: [your-email@example.com]
-- Discord: FoxyBlep
+- Discord: server invite
+- More not added yet
 
 ## ♥ My Comms! :3
 I sometimes take commissions! Check out my (site name) to see if I have any slots open, and if anything interests you!
