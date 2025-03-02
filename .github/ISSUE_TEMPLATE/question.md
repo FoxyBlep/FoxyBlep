@@ -2,7 +2,7 @@
 name: Question
 about: Use for asking any question
 title: ''
-labels: ''
+labels: Question
 assignees: ''
 
 ---
