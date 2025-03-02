@@ -4,7 +4,7 @@ Beginning of README file:
 
 ## GNU General Public License (GPL) v3.0
 
-The source code of this website, specifically the `.HTML` and `.CSS` files and their code, is licensed under the GNU General Public License v3.0. You are free to use, modify, and distribute the code, provided that you:
+The source code of all `.HTML` and `.CSS` files is licensed under the GNU General Public License v3.0. You are free to use, modify, and distribute the code, provided that you:
 
 - Include this license in all copies and portions of the code.
 - Provide appropriate credit to the original author(s).
